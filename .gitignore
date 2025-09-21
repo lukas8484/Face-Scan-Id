@@ -1,0 +1,32 @@
+# Ambientes virtuais Python
+.venv/
+venv/
+env/
+
+# Modelos pesados
+*.dat
+*.so
+*.h5
+*.ckpt
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.vscode
+fotos/
+estranho
+info.txt
+.desktop
+.md
+estranhos/
+VARIADOS CASCADES/
+Site/
+detector_smile.py
+ideias.md
+README 2.md
+teste.py
+teste2.py
+USER_E_SENHA.txt
