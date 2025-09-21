@@ -1,0 +1,89 @@
+[
+    {
+        "nome": "LUKAS",
+        "rfid": "33 F8 FF 27",
+        "acesso": 3,
+        "classe": "ADM",
+        "id": 1,
+        "ativo": true
+    },
+    {
+        "nome": "*******",
+        "rfid": "83 F6 6D 35",
+        "acesso": 2,
+        "classe": "USER",
+        "id": 2,
+        "ativo": true
+    },
+    {
+        "nome": "*******",
+        "rfid": "C3 0B 72 35",
+        "acesso": 2,
+        "classe": "USER",
+        "id": 3,
+        "ativo": true
+    },
+    {
+        "nome": "******",
+        "rfid": "F3 3A 08 35",
+        "acesso": 2,
+        "classe": "USER",
+        "id": 4,
+        "ativo": true
+    },
+    {
+        "nome": "CONVI 1",
+        "rfid": "B3 76 79 34",
+        "acesso": 1,
+        "classe": "CONV",
+        "id": 6,
+        "inicio": "2025-06-12T14:00",
+        "fim": "2025-08-03T18:00",
+        "ativo": true
+    },
+    {
+        "id": 7,
+        "nome": "CONV 2",
+        "rfid": "A3 FE 0F 35",
+        "classe": "CONV",
+        "inicio": "2025-06-12T10:00",
+        "fim": "2025-09-09T21:06",
+        "ativo": true
+    },
+    {
+        "id": 9,
+        "nome": "TAG",
+        "rfid": "D3 D5 E2 13",
+        "classe": "USER",
+        "inicio": "-",
+        "fim": "-",
+        "ativo": true
+    },
+    {
+        "id": 10,
+        "nome": "CARTAO BANCARIO",
+        "rfid": "05 88 52 80 E0 73 00",
+        "classe": "USER",
+        "inicio": "-",
+        "fim": "-",
+        "ativo": true
+    },
+    {
+        "id": 11,
+        "nome": "LUKAS MP",
+        "rfid": "05 8F 38 21 43 D2 00",
+        "classe": "USER",
+        "inicio": "-",
+        "fim": "-",
+        "ativo": true
+    },
+    {
+        "id": 12,
+        "nome": "LUKAS NU",
+        "rfid": "05 8D 2B B4 6C 82 00",
+        "classe": "USER",
+        "inicio": "-",
+        "fim": "-",
+        "ativo": true
+    }
+]

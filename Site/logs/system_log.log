@@ -1,0 +1,352 @@
+2025-08-01 15:14:39 — [WARN] ✅ Câmera encontrada: base=http://192.168.2.122:81, stream=http://192.168.2.122:81/stream
+2025-08-01 15:14:39 — [INFO] Tentativa de acesso. IP: 127.0.0.1
+2025-08-01 15:14:39 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:14:39 — [INFO] Tentativa de acesso. IP: 127.0.0.1
+2025-08-01 15:14:39 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:14:45 — [INFO] Tentativa de acesso. IP: 127.0.0.1
+2025-08-01 15:14:45 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:14:56 — [INFO] Tentativa de acesso. IP: 127.0.0.1
+2025-08-01 15:14:56 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:15:04 — [WARN] Led da camera ligado.
+2025-08-01 15:15:08 — [WARN] Led da camera desligado.
+2025-08-01 15:15:16 — [WARN] Led da camera desligado.
+2025-08-01 15:15:17 — [WARN] Led da camera ligado.
+2025-08-01 15:15:18 — [WARN] Led da camera desligado.
+2025-08-01 15:15:18 — [WARN] Led da camera desligado.
+2025-08-01 15:15:18 — [WARN] Led da camera desligado.
+2025-08-01 15:15:19 — [WARN] Led da camera desligado.
+2025-08-01 15:15:24 — [WARN] Led da camera ligado.
+2025-08-01 15:15:29 — [WARN] Led da camera desligado.
+2025-08-01 15:15:34 — [WARN] Led da camera ligado.
+2025-08-01 15:15:35 — [WARN] Led da camera desligado.
+2025-08-01 15:15:42 — [INFO] Tentativa de acesso. IP: 127.0.0.1
+2025-08-01 15:15:42 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:15:58 — [INFO] Tentativa de acesso. IP: 127.0.0.1
+2025-08-01 15:15:58 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:16:30 — [WARN] SERVIDOR INICIADO EM:192.168.2.121
+2025-08-01 15:16:33 — [WARN] SERVIDOR INICIADO EM:192.168.2.121
+2025-08-01 15:16:53 — [WARN] SERVIDOR INICIADO EM:192.168.2.121
+2025-08-01 15:16:55 — [WARN] SERVIDOR INICIADO EM:192.168.2.121
+2025-08-01 15:16:55 — [INFO] Tentativa de acesso. IP: 127.0.0.1 em: exibir_logs
+2025-08-01 15:16:55 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:17:14 — [INFO] Tentativa de acesso. IP: 127.0.0.1 em: index
+2025-08-01 15:17:14 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:17:39 — [WARN] SERVIDOR INICIADO EM:192.168.2.121
+2025-08-01 15:17:44 — [WARN] SERVIDOR INICIADO EM:192.168.2.121
+2025-08-01 15:18:21 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: exibir_logs
+2025-08-01 15:18:21 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:18:32 — [WARN] SERVIDOR INICIADO EM:192.168.2.121
+2025-08-01 15:18:39 — [WARN] SERVIDOR INICIADO EM:192.168.2.121
+2025-08-01 15:18:46 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-01 15:18:46 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:18:52 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-01 15:18:53 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:19:03 — [WARN] Led da camera ligado.
+2025-08-01 15:19:06 — [WARN] Led da camera ligado.
+2025-08-01 15:19:07 — [WARN] Led da camera ligado.
+2025-08-01 15:19:15 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-01 15:19:15 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:19:16 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-01 15:19:16 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:19:17 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-01 15:19:17 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:19:53 — [DEBUG] Dados recebidos para novo usuário: Nome=, RFID=, Classe=USER
+2025-08-01 15:19:53 — [ERROR] add_user: faltou nome ou rfid
+2025-08-01 15:20:16 — [DEBUG] Dados recebidos para novo usuário: Nome=, RFID=, Classe=USER
+2025-08-01 15:20:16 — [ERROR] add_user: faltou nome ou rfid
+2025-08-01 15:20:17 — [DEBUG] Dados recebidos para novo usuário: Nome=, RFID=, Classe=USER
+2025-08-01 15:20:17 — [ERROR] add_user: faltou nome ou rfid
+2025-08-01 15:20:18 — [DEBUG] Dados recebidos para novo usuário: Nome=, RFID=, Classe=USER
+2025-08-01 15:20:18 — [ERROR] add_user: faltou nome ou rfid
+2025-08-01 15:20:22 — [DEBUG] Dados recebidos para novo usuário: Nome=, RFID=, Classe=CONV
+2025-08-01 15:20:22 — [ERROR] add_user: faltou nome ou rfid
+2025-08-01 15:20:24 — [ERROR] Não tem liberação agendada.
+2025-08-01 15:20:26 — [WARN] Liberação agendada
+2025-08-01 15:20:27 — [WARN] Led da camera desligado.
+2025-08-01 15:20:27 — [INFO] Sistema Desativado manualmente.
+2025-08-01 15:20:32 — [ERROR] Não tem liberação agendada.
+2025-08-01 15:20:34 — [WARN] Buscando câmera na rede...
+2025-08-01 15:20:46 — [INFO] Sistema Ativado manualmente.
+2025-08-01 15:20:48 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-01 15:20:48 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:20:51 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-01 15:20:51 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:20:53 — [WARN] Buscando câmera na rede...
+2025-08-01 15:20:58 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-01 15:20:58 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:21:01 — [WARN] ✅ Câmera encontrada: base=http://192.168.2.122:81, stream=http://192.168.2.122:81/stream
+2025-08-01 15:21:06 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-01 15:21:06 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-01 15:21:08 — [WARN] Led da camera ligado.
+2025-08-01 15:21:08 — [WARN] Led da camera desligado.
+2025-08-01 15:21:09 — [WARN] Led da camera ligado.
+2025-08-01 15:21:10 — [WARN] Led da camera desligado.
+2025-08-01 15:21:10 — [WARN] Led da camera ligado.
+2025-08-01 15:21:11 — [WARN] Led da camera desligado.
+2025-08-01 15:21:14 — [WARN] Led da camera desligado.
+2025-08-01 15:21:17 — [WARN] Led da camera desligado.
+2025-08-01 15:21:18 — [WARN] Led da camera desligado.
+2025-08-01 15:21:21 — [WARN] ✅ Câmera encontrada: base=http://192.168.2.122:81, stream=http://192.168.2.122:81/stream
+2025-08-01 15:21:22 — [WARN] Led da camera desligado.
+2025-08-03 17:21:24 — [WARN] SERVIDOR INICIADO EM:192.168.2.127
+2025-08-03 17:21:26 — [WARN] SERVIDOR INICIADO EM:192.168.2.127
+2025-08-03 17:21:27 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-03 17:21:27 — [ERROR] Acesso negado: Nenhuma credencial fornecida. IP: 127.0.0.1
+2025-08-03 17:22:30 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-03 17:22:30 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-03 17:22:32 — [ERROR] Acesso negado: Nenhuma credencial fornecida. IP: 127.0.0.1
+2025-08-03 17:22:32 — [ERROR] Acesso negado: Nenhuma credencial fornecida. IP: 127.0.0.1
+2025-08-03 17:22:39 — [WARN] 
+[WARN] Sistema encerrado com Ctrl+C. Encerrando o servidor...
+2025-08-03 17:22:39 — [WARN] 
+[WARN] Sistema encerrado com Ctrl+C. Encerrando o servidor...
+2025-08-03 17:23:06 — [WARN] SERVIDOR INICIADO EM:192.168.2.127
+2025-08-03 17:23:07 — [WARN] SERVIDOR INICIADO EM:192.168.2.127
+2025-08-03 17:23:07 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-03 17:23:07 — [ERROR] Acesso negado: Nenhuma credencial fornecida. IP: 127.0.0.1
+2025-08-03 17:23:34 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-03 17:23:34 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-03 17:23:57 — [WARN] Buscando câmera na rede...
+2025-08-03 17:24:27 — [WARN] ✅ Câmera encontrada: base=http://192.168.2.122:81, stream=http://192.168.2.122:81/stream
+2025-08-03 17:24:27 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-03 17:24:27 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-03 17:24:27 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-03 17:24:28 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-03 17:24:45 — [WARN] Led da camera desligado.
+2025-08-03 17:24:45 — [INFO] Sistema Desativado manualmente.
+2025-08-03 17:25:27 — [INFO] Sistema Ativado manualmente.
+2025-08-03 17:25:34 — [WARN] Liberação agendada
+2025-08-03 17:26:24 — [WARN] Acesso liberado.
+2025-08-03 17:26:33 — [WARN] Movimento Detectado!
+2025-08-03 17:26:38 — [WARN] Movimento Detectado!
+2025-08-03 17:26:39 — [WARN] Movimento Detectado!
+2025-08-03 17:26:43 — [WARN] Movimento Detectado!
+2025-08-03 17:26:47 — [WARN] Movimento Detectado!
+2025-08-03 17:26:54 — [WARN] Movimento Detectado!
+2025-08-03 17:26:55 — [WARN] Movimento Detectado!
+2025-08-03 17:26:58 — [WARN] Led da camera ligado.
+2025-08-03 17:26:59 — [WARN] Led da camera desligado.
+2025-08-03 17:27:01 — [WARN] Led da camera ligado.
+2025-08-03 17:27:02 — [WARN] Led da camera desligado.
+2025-08-03 17:27:04 — [WARN] Led da camera ligado.
+2025-08-03 17:27:05 — [WARN] Led da camera desligado.
+2025-08-03 17:27:06 — [WARN] Led da camera ligado.
+2025-08-03 17:27:06 — [WARN] Led da camera ligado.
+2025-08-03 17:27:07 — [WARN] Led da camera desligado.
+2025-08-03 17:27:27 — [WARN] Movimento Detectado!
+2025-08-03 17:27:33 — [WARN] Movimento Detectado!
+2025-08-03 17:27:37 — [WARN] Led da camera ligado.
+2025-08-03 17:27:40 — [WARN] Movimento Detectado!
+2025-08-03 17:27:50 — [WARN] Movimento Detectado!
+2025-08-03 17:27:51 — [WARN] Movimento Detectado!
+2025-08-03 17:28:04 — [WARN] Movimento Detectado!
+2025-08-03 17:28:08 — [WARN] Movimento Detectado!
+2025-08-03 17:28:09 — [WARN] Led da camera desligado.
+2025-08-03 17:28:10 — [WARN] Led da camera ligado.
+2025-08-03 17:28:11 — [WARN] Led da camera desligado.
+2025-08-03 17:28:14 — [WARN] Led da camera ligado.
+2025-08-03 17:28:15 — [WARN] Led da camera desligado.
+2025-08-03 17:28:16 — [WARN] Led da camera ligado.
+2025-08-03 17:28:18 — [WARN] Led da camera desligado.
+2025-08-03 17:28:24 — [WARN] Movimento Detectado!
+2025-08-03 17:28:31 — [INFO] Usuário toggled: ID=1, Nome=LUKAS, Novo status=inativo
+2025-08-03 17:28:32 — [INFO] Usuário toggled: ID=1, Nome=LUKAS, Novo status=ativo
+2025-08-03 17:28:33 — [INFO] Usuário toggled: ID=2, Nome=*******, Novo status=inativo
+2025-08-03 17:28:33 — [INFO] Usuário toggled: ID=2, Nome=*******, Novo status=ativo
+2025-08-03 17:28:47 — [DEBUG] Dados recebidos para novo usuário: Nome=, RFID=, Classe=USER
+2025-08-03 17:28:47 — [ERROR] add_user: faltou nome ou rfid
+2025-08-03 17:28:53 — [WARN] Movimento Detectado!
+2025-08-03 17:29:06 — [DEBUG] Dados recebidos para novo usuário: Nome=fsdfsfsf, RFID=05 8D 2B B4 6C 82 00, Classe=USER
+2025-08-03 17:29:06 — [WARN] add_user: RFID já cadastrado (05 8D 2B B4 6C 82 00)
+2025-08-03 17:29:09 — [DEBUG] Dados recebidos para novo usuário: Nome=fsdfsfsf, RFID=05 8D 2B B4 6C 82 00, Classe=USER
+2025-08-03 17:29:09 — [WARN] add_user: RFID já cadastrado (05 8D 2B B4 6C 82 00)
+2025-08-03 17:29:10 — [DEBUG] Dados recebidos para novo usuário: Nome=fsdfsfsf, RFID=05 8D 2B B4 6C 82 00, Classe=USER
+2025-08-03 17:29:10 — [WARN] add_user: RFID já cadastrado (05 8D 2B B4 6C 82 00)
+2025-08-03 17:29:10 — [DEBUG] Dados recebidos para novo usuário: Nome=fsdfsfsf, RFID=05 8D 2B B4 6C 82 00, Classe=USER
+2025-08-03 17:29:10 — [WARN] add_user: RFID já cadastrado (05 8D 2B B4 6C 82 00)
+2025-08-03 17:29:10 — [DEBUG] Dados recebidos para novo usuário: Nome=fsdfsfsf, RFID=05 8D 2B B4 6C 82 00, Classe=USER
+2025-08-03 17:29:10 — [WARN] add_user: RFID já cadastrado (05 8D 2B B4 6C 82 00)
+2025-08-03 17:29:10 — [DEBUG] Dados recebidos para novo usuário: Nome=fsdfsfsf, RFID=05 8D 2B B4 6C 82 00, Classe=USER
+2025-08-03 17:29:10 — [WARN] add_user: RFID já cadastrado (05 8D 2B B4 6C 82 00)
+2025-08-03 17:29:24 — [DEBUG] Dados recebidos para novo usuário: Nome=fsdfsfsf, RFID=23 42 34 23 4, Classe=CONV
+2025-08-03 17:29:24 — [INFO] Usuário adicionado: ID=13, Nome=fsdfsfsf, Classe=CONV
+2025-08-03 17:29:32 — [INFO] Tempo atualizado: ID=13, Nome=fsdfsfsf, Início=2025-08-03T17:29, Fim=2025-08-03T20:29
+2025-08-03 17:29:34 — [INFO] Usuário toggled: ID=13, Nome=fsdfsfsf, Novo status=inativo
+2025-08-03 17:29:35 — [INFO] Usuário toggled: ID=13, Nome=fsdfsfsf, Novo status=ativo
+2025-08-03 17:29:37 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: delete_user
+2025-08-03 17:29:37 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-03 17:29:37 — [INFO] Usuário removido: ID=13, Nome=fsdfsfsf, RFID=23 42 34 23 4
+2025-08-03 17:29:37 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-03 17:29:37 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-03 17:29:50 — [WARN] Movimento Detectado!
+2025-08-03 17:29:54 — [WARN] Movimento Detectado!
+2025-08-03 17:29:57 — [WARN] Led da camera ligado.
+2025-08-03 17:29:58 — [WARN] Led da camera desligado.
+2025-08-03 17:30:00 — [WARN] Liberação agendada
+2025-08-03 17:30:02 — [WARN] Acesso liberado.
+2025-08-03 17:30:20 — [WARN] Acesso liberado.
+2025-08-03 17:30:20 — [WARN] Liberação cancelada.
+2025-08-03 17:30:29 — [WARN] Movimento Detectado!
+2025-08-03 17:30:33 — [WARN] Led da camera desligado.
+2025-08-03 17:30:33 — [INFO] Sistema Desativado manualmente.
+2025-08-03 17:30:35 — [ERROR] Não tem liberação agendada.
+2025-08-03 17:30:36 — [ERROR] Não tem liberação agendada.
+2025-08-03 17:30:38 — [ERROR] Não tem liberação agendada.
+2025-08-03 17:30:38 — [ERROR] Não tem liberação agendada.
+2025-08-03 17:30:40 — [INFO] Sistema Ativado manualmente.
+2025-08-03 17:30:41 — [WARN] Liberação agendada
+2025-08-03 17:30:41 — [WARN] Liberação cancelada.
+2025-08-03 17:31:36 — [WARN] Led da camera ligado.
+2025-08-03 17:31:46 — [WARN] Led da camera desligado.
+2025-08-03 17:31:57 — [WARN] Movimento Detectado!
+2025-08-03 17:31:58 — [WARN] Movimento Detectado!
+2025-08-03 17:31:59 — [WARN] Movimento Detectado!
+2025-08-03 17:32:01 — {'uid': '33 F8 FF 27', 'nome': 'LUKAS', 'status': 'allowed', 'hora': '03/08/2025 17:32:01'}
+2025-08-03 17:32:06 — [WARN] Movimento Detectado!
+2025-08-03 17:32:16 — {'uid': '33 F8 FF 27', 'nome': 'LUKAS', 'status': 'allowed', 'hora': '03/08/2025 17:32:16'}
+2025-08-03 17:32:18 — [WARN] Movimento Detectado!
+2025-08-03 17:32:30 — [INFO] Usuário toggled: ID=1, Nome=LUKAS, Novo status=inativo
+2025-08-03 17:32:34 — [WARN] Movimento Detectado!
+2025-08-03 17:32:35 — [WARN] Movimento Detectado!
+2025-08-03 17:32:36 — {'uid': '33 F8 FF 27', 'nome': 'LUKAS', 'status': 'denied', 'hora': '03/08/2025 17:32:36', 'motivo': 'Usuário desativado'}
+2025-08-03 17:32:43 — [WARN] Movimento Detectado!
+2025-08-03 17:32:44 — {'uid': '33 F8 FF 27', 'nome': 'LUKAS', 'status': 'denied', 'hora': '03/08/2025 17:32:44', 'motivo': 'Usuário desativado'}
+2025-08-03 17:32:44 — [WARN] Movimento Detectado!
+2025-08-03 17:32:53 — [INFO] Usuário toggled: ID=1, Nome=LUKAS, Novo status=ativo
+2025-08-03 17:32:58 — {'uid': '33 F8 FF 27', 'nome': 'LUKAS', 'status': 'allowed', 'hora': '03/08/2025 17:32:58'}
+2025-08-03 17:32:58 — [WARN] Movimento Detectado!
+2025-08-03 17:32:59 — [WARN] Movimento Detectado!
+2025-08-03 17:33:09 — [WARN] Movimento Detectado!
+2025-08-03 17:33:10 — [WARN] Movimento Detectado!
+2025-08-03 17:33:27 — [WARN] Movimento Detectado!
+2025-08-03 17:33:28 — [WARN] Movimento Detectado!
+2025-08-03 17:33:29 — [WARN] Movimento Detectado!
+2025-08-03 17:33:30 — [WARN] Movimento Detectado!
+2025-08-03 17:33:32 — [WARN] Movimento Detectado!
+2025-08-03 17:33:35 — [WARN] Movimento Detectado!
+2025-08-03 17:33:36 — [WARN] Movimento Detectado!
+2025-08-03 17:33:40 — [WARN] Movimento Detectado!
+2025-08-03 17:33:41 — {'uid': 'B3 76 79 34', 'nome': 'CONVI 1', 'status': 'denied', 'hora': '03/08/2025 17:33:41', 'motivo': 'Fora do período permitido'}
+2025-08-03 17:33:57 — [INFO] Tempo atualizado: ID=6, Nome=CONVI 1, Início=2025-06-12T14:00, Fim=2025-08-03T18:00
+2025-08-03 17:34:00 — [WARN] Movimento Detectado!
+2025-08-03 17:34:01 — {'uid': 'B3 76 79 34', 'nome': 'CONVI 1', 'status': 'allowed', 'hora': '03/08/2025 17:34:01'}
+2025-08-03 17:34:01 — [WARN] Movimento Detectado!
+2025-08-03 17:34:02 — [WARN] Movimento Detectado!
+2025-08-03 17:34:15 — [INFO] Usuário toggled: ID=6, Nome=CONVI 1, Novo status=inativo
+2025-08-03 17:34:17 — [WARN] Movimento Detectado!
+2025-08-03 17:34:18 — {'uid': 'B3 76 79 34', 'nome': 'CONVI 1', 'status': 'denied', 'hora': '03/08/2025 17:34:18', 'motivo': 'Usuário desativado'}
+2025-08-03 17:34:18 — [WARN] Movimento Detectado!
+2025-08-03 17:34:24 — [INFO] Usuário toggled: ID=6, Nome=CONVI 1, Novo status=ativo
+2025-08-03 17:34:25 — [WARN] Movimento Detectado!
+2025-08-03 17:34:26 — [WARN] Movimento Detectado!
+2025-08-03 17:34:26 — {'uid': 'B3 76 79 34', 'nome': 'CONVI 1', 'status': 'allowed', 'hora': '03/08/2025 17:34:26'}
+2025-08-03 17:34:30 — [WARN] Movimento Detectado!
+2025-08-03 17:34:45 — [WARN] Movimento Detectado!
+2025-08-03 17:34:46 — [WARN] Movimento Detectado!
+2025-08-03 17:34:48 — {'uid': '05 8B 03 4B 8E 63 00', 'nome': 'DESCONHECIDO', 'status': 'denied', 'hora': '03/08/2025 17:34:48'}
+2025-08-03 17:34:57 — [WARN] Movimento Detectado!
+2025-08-03 17:34:58 — [WARN] Movimento Detectado!
+2025-08-03 17:34:59 — {'uid': '05 8B 03 4B 8E 63 00', 'nome': 'DESCONHECIDO', 'status': 'denied', 'hora': '03/08/2025 17:34:59'}
+2025-08-03 17:35:03 — [WARN] Movimento Detectado!
+2025-08-03 17:35:20 — [DEBUG] Dados recebidos para novo usuário: Nome=pé de meia, RFID=05 8B 03 4B 8E 63 00, Classe=USER
+2025-08-03 17:35:20 — [INFO] Usuário adicionado: ID=13, Nome=pé de meia, Classe=USER
+2025-08-03 17:35:24 — [WARN] Movimento Detectado!
+2025-08-03 17:35:25 — [WARN] Movimento Detectado!
+2025-08-03 17:35:26 — {'uid': '05 8B 03 4B 8E 63 00', 'nome': 'pé de meia', 'status': 'allowed', 'hora': '03/08/2025 17:35:26'}
+2025-08-03 17:35:26 — [WARN] Movimento Detectado!
+2025-08-03 17:35:27 — [WARN] Movimento Detectado!
+2025-08-03 17:35:32 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: delete_user
+2025-08-03 17:35:32 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-03 17:35:32 — [INFO] Usuário removido: ID=13, Nome=pé de meia, RFID=05 8B 03 4B 8E 63 00
+2025-08-03 17:35:32 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-03 17:35:32 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-03 17:35:44 — [DEBUG] Dados recebidos para novo usuário: Nome=pe de meia, RFID=05 8B 03 4B 8E 63 00, Classe=USER
+2025-08-03 17:35:44 — [INFO] Usuário adicionado: ID=13, Nome=pe de meia, Classe=USER
+2025-08-03 17:35:46 — [WARN] Movimento Detectado!
+2025-08-03 17:35:47 — {'uid': '05 8B 03 4B 8E 63 00', 'nome': 'pe de meia', 'status': 'allowed', 'hora': '03/08/2025 17:35:47'}
+2025-08-03 17:35:47 — [WARN] Movimento Detectado!
+2025-08-03 17:35:49 — [WARN] Movimento Detectado!
+2025-08-03 17:35:58 — [WARN] Movimento Detectado!
+2025-08-03 17:35:58 — {'uid': None, 'nome': 'pe de meia', 'status': 'allowed', 'hora': None}
+2025-08-03 17:35:58 — [WARN] Movimento Detectado!
+2025-08-03 17:35:59 — [WARN] Movimento Detectado!
+2025-08-03 17:36:08 — [INFO] Usuário toggled: ID=13, Nome=pe de meia, Novo status=inativo
+2025-08-03 17:36:11 — {'uid': '05 8B 03 4B 8E 63 00', 'nome': 'pe de meia', 'status': 'denied', 'hora': '03/08/2025 17:36:11', 'motivo': 'Usuário desativado'}
+2025-08-03 17:36:11 — [WARN] Movimento Detectado!
+2025-08-03 17:36:15 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: delete_user
+2025-08-03 17:36:15 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-03 17:36:15 — [INFO] Usuário removido: ID=13, Nome=pe de meia, RFID=05 8B 03 4B 8E 63 00
+2025-08-03 17:36:15 — [INFO] Tentativa de acesso. IP: 127.0.0.1 | ROTA: index
+2025-08-03 17:36:15 — [WARN] Acesso autorizado: Usuário 'admin' | IP: 127.0.0.1
+2025-08-03 17:36:17 — {'uid': '05 8B 03 4B 8E 63 00', 'nome': 'DESCONHECIDO', 'status': 'denied', 'hora': '03/08/2025 17:36:17'}
+2025-08-03 17:36:18 — [WARN] Movimento Detectado!
+2025-08-03 17:36:25 — [WARN] Movimento Detectado!
+2025-08-03 17:36:26 — [WARN] Movimento Detectado!
+2025-08-03 17:36:31 — {'uid': 'BIOMETRIA', 'nome': 'DESCONHECIDO', 'status': 'denied', 'hora': '03/08/2025 17:36:31', 'motivo': ''}
+2025-08-03 17:36:39 — [WARN] Movimento Detectado!
+2025-08-03 17:36:42 — {'uid': 'BIOMETRIA', 'nome': 'LUKAS', 'status': 'allowed', 'hora': '03/08/2025 17:36:42', 'motivo': ''}
+2025-08-03 17:36:56 — [WARN] Movimento Detectado!
+2025-08-03 17:36:57 — [WARN] Movimento Detectado!
+2025-08-03 17:37:00 — {'uid': 'BIOMETRIA', 'nome': 'LUKAS', 'status': 'allowed', 'hora': '03/08/2025 17:37:00', 'motivo': ''}
+2025-08-03 17:37:12 — [WARN] Led da camera desligado.
+2025-08-03 17:37:12 — [INFO] Sistema Desativado manualmente.
+2025-08-03 17:37:18 — [WARN] Movimento Detectado!
+2025-08-03 17:37:19 — {'uid': '33 F8 FF 27', 'nome': 'LUKAS', 'status': 'allowed', 'hora': '03/08/2025 17:37:19', 'motivo': 'ADM com sistema desligado'}
+2025-08-03 17:37:30 — [WARN] Movimento Detectado!
+2025-08-03 17:37:31 — [WARN] Movimento Detectado!
+2025-08-03 17:37:31 — {'uid': 'B3 76 79 34', 'nome': 'CONVI 1', 'status': 'denied', 'hora': '03/08/2025 17:37:31', 'motivo': 'Sistema desativado'}
+2025-08-03 17:37:32 — [WARN] Movimento Detectado!
+2025-08-03 17:37:36 — [WARN] Movimento Detectado!
+2025-08-03 17:37:37 — [WARN] Movimento Detectado!
+2025-08-03 17:37:41 — [WARN] Movimento Detectado!
+2025-08-03 17:37:41 — {'uid': '05 8B 03 4B 8E 63 00', 'nome': 'DESCONHECIDO', 'status': 'denied', 'hora': '03/08/2025 17:37:41', 'motivo': 'Sistema desativado'}
+2025-08-03 17:37:42 — [WARN] Movimento Detectado!
+2025-08-03 17:37:52 — [INFO] Sistema Ativado manualmente.
+2025-08-03 17:37:54 — [WARN] Liberação agendada
+2025-08-03 17:37:55 — [WARN] Led da camera desligado.
+2025-08-03 17:37:56 — [INFO] Sistema Desativado manualmente.
+2025-08-03 17:37:56 — [INFO] Sistema Ativado manualmente.
+2025-08-03 17:37:57 — [WARN] Led da camera desligado.
+2025-08-03 17:37:57 — [INFO] Sistema Desativado manualmente.
+2025-08-03 17:37:58 — [ERROR] Não tem liberação agendada.
+2025-08-03 17:37:58 — [ERROR] Não tem liberação agendada.
+2025-08-03 17:37:59 — [INFO] Sistema Ativado manualmente.
+2025-08-03 17:38:01 — [WARN] Liberação agendada
+2025-08-03 17:38:02 — [WARN] Liberação cancelada.
+2025-08-03 17:38:03 — [WARN] Led da camera desligado.
+2025-08-03 17:38:03 — [INFO] Sistema Desativado manualmente.
+2025-08-03 17:38:04 — [DEBUG] Dados recebidos para novo usuário: Nome=, RFID=, Classe=USER
+2025-08-03 17:38:04 — [ERROR] add_user: faltou nome ou rfid
+2025-08-03 17:38:08 — [INFO] Sistema Ativado manualmente.
+2025-08-03 17:38:09 — [WARN] Liberação agendada
+2025-08-03 17:38:12 — [WARN] Acesso liberado.
+2025-08-03 17:38:21 — [WARN] Movimento Detectado!
+2025-08-03 17:38:27 — [WARN] Liberação agendada
+2025-08-03 17:38:29 — [WARN] Liberação cancelada.
+2025-08-03 17:38:31 — [WARN] Movimento Detectado!
+2025-08-03 17:38:32 — [WARN] Movimento Detectado!
+2025-08-03 17:38:45 — [WARN] Liberação agendada
+2025-08-03 17:38:46 — [WARN] Liberação cancelada.
+2025-08-03 17:38:47 — [WARN] Led da camera desligado.
+2025-08-03 17:38:47 — [INFO] Sistema Desativado manualmente.
+2025-08-03 17:38:47 — [INFO] Sistema Ativado manualmente.
+2025-08-03 17:38:48 — [WARN] Led da camera desligado.
+2025-08-03 17:38:48 — [INFO] Sistema Desativado manualmente.
+2025-08-03 17:38:49 — [ERROR] Não tem liberação agendada.
+2025-08-03 17:38:49 — [INFO] Sistema Ativado manualmente.
+2025-08-03 17:38:56 — [INFO] Usuário toggled: ID=2, Nome=*******, Novo status=inativo
+2025-08-03 17:38:56 — [INFO] Usuário toggled: ID=2, Nome=*******, Novo status=ativo
+2025-08-03 17:38:57 — [INFO] Usuário toggled: ID=1, Nome=LUKAS, Novo status=inativo
+2025-08-03 17:38:57 — [INFO] Usuário toggled: ID=1, Nome=LUKAS, Novo status=ativo
+2025-08-03 17:39:00 — [INFO] Usuário toggled: ID=12, Nome=LUKAS NU, Novo status=inativo
+2025-08-03 17:39:01 — [INFO] Usuário toggled: ID=12, Nome=LUKAS NU, Novo status=ativo
+2025-08-03 17:39:04 — [WARN] Led da camera ligado.
+2025-08-03 17:39:05 — [WARN] Led da camera desligado.
+2025-08-03 17:39:07 — [WARN] Led da camera ligado.
+2025-08-03 17:39:08 — [WARN] Led da camera desligado.
+2025-08-03 17:39:17 — [WARN] Led da camera desligado.
+2025-08-03 17:39:18 — [WARN] Led da camera ligado.
+2025-08-03 17:39:19 — [WARN] Led da camera desligado.
+2025-08-03 17:39:24 — [WARN] Led da camera desligado.
+2025-08-03 17:39:24 — [INFO] Sistema Desativado manualmente.
+2025-08-03 17:39:30 — [WARN] Movimento Detectado!

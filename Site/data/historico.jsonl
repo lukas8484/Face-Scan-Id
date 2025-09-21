@@ -1,0 +1,63 @@
+{"hora": "27/07/2025 14:27:04", "motivo": "Sistema desativado", "nome": "LUKAS NU", "status": "denied", "uid": "05 8D 2B B4 6C 82 00"}
+{"hora": "27/07/2025 14:27:24", "nome": "LUKAS NU", "status": "allowed", "uid": "05 8D 2B B4 6C 82 00"}
+{"hora": "27/07/2025 14:29:32", "nome": "LUKAS NU", "status": "allowed", "uid": "05 8D 2B B4 6C 82 00"}
+{"hora": "27/07/2025 14:30:32", "nome": "LUKAS NU", "status": "allowed", "uid": "05 8D 2B B4 6C 82 00"}
+{"hora": "27/07/2025 15:09:18", "nome": "LUKAS NU", "status": "allowed", "uid": "05 8D 2B B4 6C 82 00"}
+{"hora": "27/07/2025 15:10:41", "motivo": "Sistema desativado", "nome": "LUKAS NU", "status": "denied", "uid": "05 8D 2B B4 6C 82 00"}
+{"hora": "27/07/2025 15:18:06", "nome": "LUKAS NU", "status": "allowed", "uid": "05 8D 2B B4 6C 82 00"}
+{"hora": "27/07/2025 16:29:57", "motivo": "", "nome": "LUKAS", "status": "allowed", "uid": "BIOMETRIA"}
+{"hora": "27/07/2025 16:31:34", "motivo": "Usuário desativado", "nome": "LUKAS NU", "status": "denied", "uid": "05 8D 2B B4 6C 82 00"}
+{"hora": "27/07/2025 16:59:34", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 17:03:07", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 17:03:14", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 17:03:30", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 17:38:40", "nome": "CARTAO BANCARIO", "status": "allowed", "uid": "05 88 52 80 E0 73 00"}
+{"hora": "27/07/2025 17:39:02", "motivo": "Usuário desativado", "nome": "CARTAO BANCARIO", "status": "denied", "uid": "05 88 52 80 E0 73 00"}
+{"hora": "27/07/2025 17:39:14", "motivo": "Usuário desativado", "nome": "CARTAO BANCARIO", "status": "denied", "uid": "05 88 52 80 E0 73 00"}
+{"hora": "27/07/2025 17:40:00", "motivo": "Sistema desativado", "nome": "CARTAO BANCARIO", "status": "denied", "uid": "05 88 52 80 E0 73 00"}
+{"hora": "27/07/2025 17:51:33", "motivo": "", "nome": "LUKAS", "status": "allowed", "uid": "BIOMETRIA"}
+{"hora": "27/07/2025 17:51:50", "motivo": "", "nome": "DESCONHECIDO", "status": "denied", "uid": "BIOMETRIA"}
+{"hora": "27/07/2025 18:41:58", "nome": "CARTAO BANCARIO", "status": "allowed", "uid": "05 88 52 80 E0 73 00"}
+{"hora": "27/07/2025 18:42:49", "nome": "LUKAS NU", "status": "allowed", "uid": "05 8D 2B B4 6C 82 00"}
+{"hora": "27/07/2025 19:13:13", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 19:13:20", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 19:14:10", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 19:14:17", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 19:15:10", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 19:15:31", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 19:17:27", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 19:17:38", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 19:17:46", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 19:18:09", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 19:18:16", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "27/07/2025 19:21:37", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "28/07/2025 15:20:24", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "28/07/2025 15:20:53", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "28/07/2025 15:21:19", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "28/07/2025 18:15:05", "nome": "CARTAO BANCARIO", "status": "allowed", "uid": "05 88 52 80 E0 73 00"}
+{"hora": "29/07/2025 17:44:50", "nome": "CARTAO BANCARIO", "status": "allowed", "uid": "05 88 52 80 E0 73 00"}
+{"hora": "29/07/2025 17:45:01", "nome": "LUKAS MP", "status": "allowed", "uid": "05 8F 38 21 43 D2 00"}
+{"hora": "29/07/2025 17:47:17", "motivo": "", "nome": "DESCONHECIDO", "status": "denied", "uid": "BIOMETRIA"}
+{"hora": "01/08/2025 14:24:01", "nome": "LUKAS", "status": "allowed", "uid": "FACIAL"}
+{"hora": "03/08/2025 17:32:01", "nome": "LUKAS", "status": "allowed", "uid": "33 F8 FF 27"}
+{"hora": "03/08/2025 17:32:16", "nome": "LUKAS", "status": "allowed", "uid": "33 F8 FF 27"}
+{"hora": "03/08/2025 17:32:36", "motivo": "Usuário desativado", "nome": "LUKAS", "status": "denied", "uid": "33 F8 FF 27"}
+{"hora": "03/08/2025 17:32:44", "motivo": "Usuário desativado", "nome": "LUKAS", "status": "denied", "uid": "33 F8 FF 27"}
+{"hora": "03/08/2025 17:32:58", "nome": "LUKAS", "status": "allowed", "uid": "33 F8 FF 27"}
+{"hora": "03/08/2025 17:33:41", "motivo": "Fora do período permitido", "nome": "CONVI 1", "status": "denied", "uid": "B3 76 79 34"}
+{"hora": "03/08/2025 17:34:01", "nome": "CONVI 1", "status": "allowed", "uid": "B3 76 79 34"}
+{"hora": "03/08/2025 17:34:18", "motivo": "Usuário desativado", "nome": "CONVI 1", "status": "denied", "uid": "B3 76 79 34"}
+{"hora": "03/08/2025 17:34:26", "nome": "CONVI 1", "status": "allowed", "uid": "B3 76 79 34"}
+{"hora": "03/08/2025 17:34:48", "nome": "DESCONHECIDO", "status": "denied", "uid": "05 8B 03 4B 8E 63 00"}
+{"hora": "03/08/2025 17:34:59", "nome": "DESCONHECIDO", "status": "denied", "uid": "05 8B 03 4B 8E 63 00"}
+{"hora": "03/08/2025 17:35:26", "nome": "pé de meia", "status": "allowed", "uid": "05 8B 03 4B 8E 63 00"}
+{"hora": "03/08/2025 17:35:47", "nome": "pe de meia", "status": "allowed", "uid": "05 8B 03 4B 8E 63 00"}
+{"hora": null, "nome": "pe de meia", "status": "allowed", "uid": null}
+{"hora": "03/08/2025 17:36:11", "motivo": "Usuário desativado", "nome": "pe de meia", "status": "denied", "uid": "05 8B 03 4B 8E 63 00"}
+{"hora": "03/08/2025 17:36:17", "nome": "DESCONHECIDO", "status": "denied", "uid": "05 8B 03 4B 8E 63 00"}
+{"hora": "03/08/2025 17:36:31", "motivo": "", "nome": "DESCONHECIDO", "status": "denied", "uid": "BIOMETRIA"}
+{"hora": "03/08/2025 17:36:42", "motivo": "", "nome": "LUKAS", "status": "allowed", "uid": "BIOMETRIA"}
+{"hora": "03/08/2025 17:37:00", "motivo": "", "nome": "LUKAS", "status": "allowed", "uid": "BIOMETRIA"}
+{"hora": "03/08/2025 17:37:19", "motivo": "ADM com sistema desligado", "nome": "LUKAS", "status": "allowed", "uid": "33 F8 FF 27"}
+{"hora": "03/08/2025 17:37:31", "motivo": "Sistema desativado", "nome": "CONVI 1", "status": "denied", "uid": "B3 76 79 34"}
+{"hora": "03/08/2025 17:37:41", "motivo": "Sistema desativado", "nome": "DESCONHECIDO", "status": "denied", "uid": "05 8B 03 4B 8E 63 00"}

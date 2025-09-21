@@ -1,0 +1,1 @@
+camera_url = "10.0.1.1"# o link correto para o stream
