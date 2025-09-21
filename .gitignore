@@ -4,6 +4,8 @@ venv/
 env/
 myvenv/
 .myvenv/
+myenv/
+.myenv/
 
 
 # Modelos pesados
