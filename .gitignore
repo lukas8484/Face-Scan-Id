@@ -33,3 +33,10 @@ README 2.md
 teste.py
 teste2.py
 USER_E_SENHA.txt
+
+
+# SUBSCREVER O GIT
+# git rm -r --cached .
+# git add .
+# git commit -m "Adiciona .gitignore e limpa arquivos ignorados"
+# git push -u origin main --force
