@@ -38,7 +38,7 @@ USER_E_SENHA.txt
 
 
 # SUBSCREVER O GIT
-# git rm -r --cached .
-# git add .
-# git commit -m "Adiciona .gitignore e limpa arquivos ignorados"
-# git push -u origin main --force
+git rm -r --cached .
+git add .
+git commit -m "Adiciona .gitignore e limpa arquivos ignorados"
+git push -u origin main --force
